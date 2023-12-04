@@ -1,0 +1,6 @@
+toggleLed.c:9:6:blinky_led1	8	static
+toggleLed.c:12:6:blinky_led2	8	static
+toggleLed.c:15:6:blinky_led3	8	static
+toggleLed.c:18:6:blinky_led4	8	static
+toggleLed.c:21:6:blinky_led5	8	static
+toggleLed.c:24:6:blinky_led6	8	static
